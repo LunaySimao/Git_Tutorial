@@ -1,1 +1,5 @@
 "Quarto ficheiro de Teste" 
+
+Linha adicionada
+
+Teste passou
